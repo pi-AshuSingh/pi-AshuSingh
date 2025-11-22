@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=pi-AshuSingh&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  &nbsp;
   <a href="mailto:ashu.chhapra.br@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
   </a>
