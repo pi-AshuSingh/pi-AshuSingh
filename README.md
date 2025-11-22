@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ashutosh Kumar Singh 👋
 
-<!--
-**pi-AshuSingh/pi-AshuSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=ashurauza&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <a href="mailto:ashu.chhapra.br@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+> **This is the second GitHub account of Ashutosh Kumar Singh || CSE(AI&ML)'27 || 98.25%ile:CUET(UG-2023) || Data Nerd**
+
+
+---
+
